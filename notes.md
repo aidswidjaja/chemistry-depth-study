@@ -2,7 +2,7 @@
 
 ## The Contact Process
 
-https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Equilibria/Le_Chateliers_Principle/The_Contact_Process
+[https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Equilibria/Le_Chateliers_Principle/The_Contact_Process](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Equilibria/Le_Chateliers_Principle/The_Contact_Process)
 
 - Step 1: Make sulfur dioxide
 - Step 2: Convert sulfur dioxide into sulfur trioxide (the reversible reaction at the heart of the process)
@@ -10,19 +10,27 @@ https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textb
 
 ### Part 1 – Equilibrium Systems (650-750 words)
 Students will investigate ONE of the following processes:
-• Contact Process OR
+• **Contact Process **OR
 • Production of Ethene (Ethylene) from Natural Gases (eg. Ethane, Butane and Propane)
 
 	
 
 Students are expected to describe the important equilibrium reaction in their chosen industrial process. As part of this section students will:
 
-o explain the importance of the industrial process, and the uses of the desired product
+**explain the importance of the industrial process, and the uses of the desired product**
 
-o identify how different factors will affect the equilibrium reaction,
 
-o for each factor, explain the condition that would provide the optimal yield for the desired chemical in the
-equilibrium reaction
+**identify how different factors will affect the equilibrium reaction,**
+
+#### Temperature
+
+	- to produce maximum amount of sulfur trioxide, you need to shift right as much as possible
+	- forward production of sulfur trioxide is exothermic
+	- hence, we must lower temperature as much as possible, to produce much as possible
+	- however, lower temp = lower rate of reaction, hence the actual temperature used is 400°C to 450°C, since it can do a fairly high proportion of sulfur trioxide in a relatively short time
+		(use graph to show how this relationship)
+
+o for each factor, explain the condition that would provide the optimal yield for the desired chemical in theequilibrium reaction
 
 o describe the conditions that are used in the industrial process, and explain why these might be different to the ideal conditions, with a focus on safety, environmental or economic reasons
 
