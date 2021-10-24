@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1635062474 "depth-study.tex" "depth-study.pdf" "depth-study" 1635062475
+["pdflatex"] 1635109502 "depth-study.tex" "depth-study.pdf" "depth-study" 1635109503
   "/usr/local/texlive/2021basic/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2021basic/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2021basic/texmf-dist/fonts/tfm/jknappen/ec/ecbx1095.tfm" 1136768653 3584 21b378cca2e40816b0e6d74a4dc98f04 ""
@@ -75,10 +75,10 @@
   "/usr/local/texlive/2021basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1634466059 326375 f89a1ce82174c2330291721dc1cdf88f ""
   "/usr/local/texlive/2021basic/texmf-var/web2c/pdftex/pdflatex.fmt" 1634172038 2057441 7846bdbcbec433fb78fb158e74c5f6bd ""
   "/usr/local/texlive/2021basic/texmf.cnf" 1616691442 628 e23d78b1be89c53495d66eec94d2300d ""
-  "depth-study.aux" 1635062474 1607 28f44dc153b4a468c215e10c6d8e2abe "pdflatex"
-  "depth-study.tex" 1635062471 9142 e0e46c95c8ee7f8417863e5abbdbf1ff ""
+  "depth-study.aux" 1635109503 1709 13d858d15e8589742cb74115d252590d "pdflatex"
+  "depth-study.tex" 1635109403 9550 ef6cc700a1be3e8bfc20f8c752bc0631 ""
   "images//graph.png" 1635060629 190964 970a48777b0134f2d8d4aae81be2f936 ""
   (generated)
   "depth-study.log"
-  "depth-study.pdf"
   "depth-study.aux"
+  "depth-study.pdf"

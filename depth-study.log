@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.14)  24 OCT 2021 19:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.14)  25 OCT 2021 08:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -236,40 +236,40 @@ File: ./images//graph.png Graphic file (type png)
 <use ./images//graph.png>
 Package pdftex.def Info: ./images//graph.png  used on input line 105.
 (pdftex.def)             Requested size: 317.18422pt x 319.69359pt.
- [3 <./images//graph.png>] [4] (./depth-study.aux) ) 
+ [3 <./images//graph.png>] [4] [5] (./depth-study.aux) ) 
 Here is how much of TeX's memory you used:
  3260 strings out of 480445
  44975 string characters out of 5892390
- 349652 words of memory out of 5000000
+ 348652 words of memory out of 5000000
  20508 multiletter control sequences out of 15000+600000
  418699 words of font info for 59 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  68i,17n,74p,524b,185s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2021bas
-ic/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2021
-basic/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/
-2021basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texl
-ive/2021basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/t
-exlive/2021basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local
-/texlive/2021basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/l
-ocal/texlive/2021basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></us
-r/local/texlive/2021basic/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb><
-/usr/local/texlive/2021basic/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pf
-b></usr/local/texlive/2021basic/texmf-dist/fonts/type1/public/cm-super/sfbx1440
-.pfb></usr/local/texlive/2021basic/texmf-dist/fonts/type1/public/cm-super/sfbx1
-728.pfb></usr/local/texlive/2021basic/texmf-dist/fonts/type1/public/cm-super/sf
-rm0700.pfb></usr/local/texlive/2021basic/texmf-dist/fonts/type1/public/cm-super
-/sfrm0800.pfb></usr/local/texlive/2021basic/texmf-dist/fonts/type1/public/cm-su
-per/sfrm1000.pfb></usr/local/texlive/2021basic/texmf-dist/fonts/type1/public/cm
--super/sfrm1095.pfb></usr/local/texlive/2021basic/texmf-dist/fonts/type1/public
-/cm-super/sfrm1200.pfb></usr/local/texlive/2021basic/texmf-dist/fonts/type1/pub
-lic/cm-super/sfrm1440.pfb></usr/local/texlive/2021basic/texmf-dist/fonts/type1/
-public/cm-super/sfrm2074.pfb></usr/local/texlive/2021basic/texmf-dist/fonts/typ
-e1/public/cm-super/sfti1200.pfb>
-Output written on depth-study.pdf (4 pages, 363456 bytes).
+{/usr/local/texlive/202
+1basic/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/
+2021basic/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texl
+ive/2021basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/
+texlive/2021basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loc
+al/texlive/2021basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/l
+ocal/texlive/2021basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
+sr/local/texlive/2021basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+</usr/local/texlive/2021basic/texmf-dist/fonts/type1/public/cm-super/sfbx1095.p
+fb></usr/local/texlive/2021basic/texmf-dist/fonts/type1/public/cm-super/sfbx120
+0.pfb></usr/local/texlive/2021basic/texmf-dist/fonts/type1/public/cm-super/sfbx
+1440.pfb></usr/local/texlive/2021basic/texmf-dist/fonts/type1/public/cm-super/s
+fbx1728.pfb></usr/local/texlive/2021basic/texmf-dist/fonts/type1/public/cm-supe
+r/sfrm0700.pfb></usr/local/texlive/2021basic/texmf-dist/fonts/type1/public/cm-s
+uper/sfrm0800.pfb></usr/local/texlive/2021basic/texmf-dist/fonts/type1/public/c
+m-super/sfrm1000.pfb></usr/local/texlive/2021basic/texmf-dist/fonts/type1/publi
+c/cm-super/sfrm1095.pfb></usr/local/texlive/2021basic/texmf-dist/fonts/type1/pu
+blic/cm-super/sfrm1200.pfb></usr/local/texlive/2021basic/texmf-dist/fonts/type1
+/public/cm-super/sfrm1440.pfb></usr/local/texlive/2021basic/texmf-dist/fonts/ty
+pe1/public/cm-super/sfrm2074.pfb></usr/local/texlive/2021basic/texmf-dist/fonts
+/type1/public/cm-super/sfti1200.pfb>
+Output written on depth-study.pdf (5 pages, 363995 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
- 66 compressed objects within 1 object stream
+ 95 PDF objects out of 1000 (max. 8388607)
+ 68 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
