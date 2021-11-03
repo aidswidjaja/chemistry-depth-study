@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.14)  3 NOV 2021 23:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.14)  3 NOV 2021 23:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -250,12 +250,12 @@ File: ./images//solvay.jpeg Graphic file (type jpg)
 Package pdftex.def Info: ./images//solvay.jpeg  used on input line 128.
 (pdftex.def)             Requested size: 377.16197pt x 369.9349pt.
  [3] [4 <./images//solvay.jpeg>]
-Underfull \hbox (badness 10000) in paragraph at lines 198--198
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
 []\T1/cmr/m/n/12 Heating of cal-cium
  []
 
 
-Underfull \hbox (badness 1478) in paragraph at lines 203--204
+Underfull \hbox (badness 1478) in paragraph at lines 202--203
 []\T1/cmr/m/n/12 Inhaling am-mo-nium chlo-ride fumes may in-duce cough-ing or
  []
 
@@ -263,36 +263,36 @@ Underfull \hbox (badness 1478) in paragraph at lines 203--204
 <./images//earth.png, id=35, 1375.1375pt x 969.6225pt>
 File: ./images//earth.png Graphic file (type png)
 <use ./images//earth.png>
-Package pdftex.def Info: ./images//earth.png  used on input line 239.
+Package pdftex.def Info: ./images//earth.png  used on input line 238.
 (pdftex.def)             Requested size: 412.54443pt x 290.88899pt.
  [6 <./images//earth.png>] [7]
-Overfull \hbox (2.58322pt too wide) in paragraph at lines 263--264
+Overfull \hbox (2.58322pt too wide) in paragraph at lines 261--262
 []\T1/cmr/m/n/12 Department of Agri-cul-ture, Wa-ter and the En-vi-ron-ment 201
 9, Sul-fu-ric acid, Com-mon-wealth of Aus-tralia,
  []
 
 
-Overfull \hbox (352.19872pt too wide) in paragraph at lines 265--266
+Overfull \hbox (352.19872pt too wide) in paragraph at lines 263--264
 []\T1/cmr/m/n/12 Dynamic Sci-ence n.d., Sul-fu-ric acid - con-tact pro-cess, vi
 ewed 1 Novem-ber 2021, <http://www.dynamicscience.com.au/tester/solutions1/chem
 istry/sulfuricacid.html>(Figure
  []
 
 
-Overfull \hbox (207.84793pt too wide) in paragraph at lines 273--274
+Overfull \hbox (207.84793pt too wide) in paragraph at lines 271--272
 \T1/cmr/m/n/12 <https://www.aph.gov.au/parliamentary_business/committees/house_
 of_representatives_committees?url=pwc/largsnorth/subs/sub03.pdf> 
  []
 
 [8]
-Overfull \hbox (430.91293pt too wide) in paragraph at lines 291--292
+Overfull \hbox (430.91293pt too wide) in paragraph at lines 289--290
 \T1/cmr/m/n/12 <https://www.adelaidenow.com.au/news/penrice-to-shut-soda-ash-ma
 nufacturing-at-osborne-plan-in-south-australia-impacting-60-jobs/news-story/eca
 e8b19856bd02ead367a181515f382> 
  []
 
 
-Overfull \hbox (101.79735pt too wide) in paragraph at lines 305--306
+Overfull \hbox (101.79735pt too wide) in paragraph at lines 303--304
 \T1/cmr/m/n/12 <https://www.worldofchemicals.com/440/chemistry-articles/manufac
 turing-of-sodium-carbonate-by-solvay-process.html> 
  []
@@ -301,7 +301,7 @@ turing-of-sodium-carbonate-by-solvay-process.html>
 Here is how much of TeX's memory you used:
  3327 strings out of 480445
  45984 string characters out of 5892390
- 353029 words of memory out of 5000000
+ 352029 words of memory out of 5000000
  20573 multiletter control sequences out of 15000+600000
  414966 words of font info for 54 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
@@ -321,7 +321,7 @@ asic/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/20
 /2021basic/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texl
 ive/2021basic/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></usr/local/t
 exlive/2021basic/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on depth-study.pdf (9 pages, 9123949 bytes).
+Output written on depth-study.pdf (9 pages, 9123895 bytes).
 PDF statistics:
  94 PDF objects out of 1000 (max. 8388607)
  65 compressed objects within 1 object stream
