@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.14)  3 NOV 2021 23:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.14)  3 NOV 2021 23:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -272,29 +272,21 @@ Overfull \hbox (2.58322pt too wide) in paragraph at lines 261--262
  []
 
 
-Overfull \hbox (352.19872pt too wide) in paragraph at lines 263--264
-[]\T1/cmr/m/n/12 Dynamic Sci-ence n.d., Sul-fu-ric acid - con-tact pro-cess, vi
-ewed 1 Novem-ber 2021, <http://www.dynamicscience.com.au/tester/solutions1/chem
-istry/sulfuricacid.html>(Figure
- []
-
-
-Overfull \hbox (207.84793pt too wide) in paragraph at lines 271--272
+Overfull \hbox (8.21213pt too wide) in paragraph at lines 271--272
 \T1/cmr/m/n/12 <https://www.aph.gov.au/parliamentary_business/committees/house_
-of_representatives_committees?url=pwc/largsnorth/subs/sub03.pdf> 
+of_representatives_committees 
  []
 
 [8]
-Overfull \hbox (430.91293pt too wide) in paragraph at lines 289--290
+Overfull \hbox (29.94432pt too wide) in paragraph at lines 289--290
 \T1/cmr/m/n/12 <https://www.adelaidenow.com.au/news/penrice-to-shut-soda-ash-ma
-nufacturing-at-osborne-plan-in-south-australia-impacting-60-jobs/news-story/eca
-e8b19856bd02ead367a181515f382> 
+nufacturing-at-osborne-plan-in-south- 
  []
 
 
-Overfull \hbox (101.79735pt too wide) in paragraph at lines 303--304
+Overfull \hbox (24.65794pt too wide) in paragraph at lines 303--304
 \T1/cmr/m/n/12 <https://www.worldofchemicals.com/440/chemistry-articles/manufac
-turing-of-sodium-carbonate-by-solvay-process.html> 
+turing-of-sodium-carbonate-by-solvay 
  []
 
 [9] (./depth-study.aux) ) 
@@ -321,7 +313,7 @@ asic/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/20
 /2021basic/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texl
 ive/2021basic/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></usr/local/t
 exlive/2021basic/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on depth-study.pdf (9 pages, 9123895 bytes).
+Output written on depth-study.pdf (9 pages, 9123926 bytes).
 PDF statistics:
  94 PDF objects out of 1000 (max. 8388607)
  65 compressed objects within 1 object stream
